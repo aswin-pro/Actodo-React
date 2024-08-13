@@ -21,7 +21,7 @@ Actodo is a task management application built using React and TailwindCSS. The a
 - Manage Tasks: Add your daily activities to the to-do list. You can delete individual tasks or clear the entire list if needed.
 
 ## How to View
-You can explore the Actodo by visiting 
+You can explore the Actodo by visiting https://actodo-react-nine.vercel.app/
 
 ## Contributing
 If you'd like to contribute to the project, please fork the repository and use a feature branch. Pull requests are welcome.
