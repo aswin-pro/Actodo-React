@@ -6,7 +6,7 @@ function Landing()
 { 
     const currentTime = new Date().toLocaleTimeString(); //for current time
     const currentMonth = new Date().toLocaleString('default', { month: 'long' }); //for current month
-    const data = useLocation()
+    const data = useLocation() 
     return(
     <div className="m-4 md:m-10 shadow-md">
         <div className="bg-[#e4e4e4c0] p-10 border rounded-md">
